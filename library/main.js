@@ -45,6 +45,7 @@ $(document).ready(function() {
     Add top bar and preferences
   */
 
+
   $("body").html(
     '<p id="bar">'
     //'<p id="bar"><span class="button" id="shown">Open shown</span><span class="button" id="each">Open all</span><span class="button" id="random">I\'m bored</span></p>'
